@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/d24b67963e8dd8d0c99e5b7cf22dab018618cf6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_3aeba518509a3d59cf4a89c2ce220912fdfafed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/e545394db5af7ebc50b28854e2b88df6aaceb974/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_963bb530f98b35efb16660e67b8f5b10925d4724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_4542e989530bdd1882ba02d26e1c4aa606f4435c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_aaedc0812a4f163644dd6978f14e9224b25d1a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/1398f15b9157cf35828b4bc4f84b9b977fcdb85d/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_8ca1b66ed8240f28b56c608b78daefc90ed7e3c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_89b1b7988c715df1099ec7dc6dcd5bd03e049607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/fb3cf46e6b6ef826f4bb4b0f2029881f2398ec39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_d5b14fb8b4506bfb9e0faee6d217a552d6c5fcbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/6f16500f1b492c29a398315e9635fa67bdac2722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_abfc1d499962582409ccad7490a74c293141a08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/1398f15b9157cf35828b4bc4f84b9b977fcdb85d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_b948e333e91664f0662eed131b27ff56d63d8d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ryandevoys/.android/build-cache/69b6af6df5eb60248b068226cbff1b111ae807c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_44a3421f49567348a8dd154bbded227970393d59.jar" />
+    </item>
+
+</items>

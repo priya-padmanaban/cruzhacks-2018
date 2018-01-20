@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

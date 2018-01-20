@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

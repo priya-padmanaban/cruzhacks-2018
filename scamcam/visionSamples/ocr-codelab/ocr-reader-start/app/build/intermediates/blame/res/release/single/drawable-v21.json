@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

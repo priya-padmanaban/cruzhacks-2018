@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/b5857bfedf4b7c716ba852bb857ec5e91e7945d0/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/b5857bfedf4b7c716ba852bb857ec5e91e7945d0/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/cc82cb47aeb355fac07947c8791cb4497803450c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/e5a156f45c9b724072705483b5c026532973bc24/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ryandevoys/gitstuff/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/ryandevoys/.android/build-cache/0f560aed38cdd9cc9d90eeae4bb46fe5a66367c7/output/res/color/abc_tint_btn_checkable.xml"
+    }
+]
