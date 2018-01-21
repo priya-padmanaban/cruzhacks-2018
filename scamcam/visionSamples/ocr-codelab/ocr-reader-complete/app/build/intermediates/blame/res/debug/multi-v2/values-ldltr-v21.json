@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/priya/Desktop/cruzhacks-2018/scamcam/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/priya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/702893f1d5c74e37f24e94d3a64f7130/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

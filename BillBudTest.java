@@ -22,13 +22,20 @@ class BillBudTest {
     	while (true) {
             System.out.println("Enter name of item: ");
             items.add(in.next());
-            System.out.println("Enter price of item, numeric value only: ");
+            System.out.println("Enter price of item (no $): ");
             prices.add(in.nextDouble());
             System.out.println("Done adding? y/n");
             if(in.next().equals("y"))
             	break;
         }
 
+        double totalprice = 0;
+        for(int i = 0; i < prices.size(); i++){
+        	totalprice += prices.get(i);
+        }
+
+        System.out.println("Enter the tax as a dollar amount (no $): ");
+        double tax = in.nextDouble();
 
         // this 2d array stores only 1s and 0s, 1 if the user is paying for the item, 0 if not
         int[][] shared = new int[usercount][items.size()];
@@ -50,7 +57,7 @@ class BillBudTest {
         	divamounts[i] = (double)(prices.get(i)) / (double)(totalshared[i]);
         }
 
-        System.out.println("Tip percentage? don't include the % pls");
+        System.out.println("Tip percentage? (no %)");
         double tip = (double)(in.nextInt())/100;
 
 
@@ -67,9 +74,14 @@ class BillBudTest {
         }
 
         // add tip to bills
-
         for(int i = 0; i < usercount; i++){
         	amounts[i] += amounts[i]*tip;
+        }
+
+        // add tax to bills
+        double taxpercent = (double)(tax/totalprice);
+        for(int i = 0; i < usercount; i++){
+        	amounts[i] += amounts[i]*taxpercent;
         }
 
 

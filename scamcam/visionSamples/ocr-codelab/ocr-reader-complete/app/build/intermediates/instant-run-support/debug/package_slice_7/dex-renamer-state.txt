@@ -1,0 +1,4 @@
+#Sat Jan 20 15:04:28 PST 2018
+base.0=/home/priya/Desktop/cruzhacks-2018/scamcam/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
